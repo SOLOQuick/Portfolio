@@ -1,0 +1,38 @@
+*{
+        
+        color: rgb(23, 23, 205);
+        background-color: rgb(209, 177, 146);
+}
+h1{
+        font-size: 80px;
+        font-weight: 900;
+        text-align: center;
+        background: linear-gradient(#ebc05c,#59e7f4,#eb71b0);
+}
+h1:hover{
+        background-color: rgb(230, 190, 137);
+        color: rgb(231, 34, 16);
+        border-radius: 10%;
+        box-shadow: 0 0 25px rgb(227, 144, 71);
+}
+h3{
+        color: rgb(6, 87, 26);
+        font-size: 50px;
+        text-align: center;
+        text-decoration: underline;
+        background: linear-gradient(#ebc05c,#59e7f4,#eb71b0);
+}
+img{
+        width: 345px;
+        height: 250px;
+        image-orientation: inherit;
+        padding: 0.8rem;
+        border-radius: 10%;
+        background: #3f6264;
+}
+button {
+        justify-content: right;
+        font-size: 30px;
+        font-weight: 900;
+        border: none;
+}
